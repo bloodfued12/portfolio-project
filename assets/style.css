@@ -5,3 +5,14 @@
     padding: 20px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
 }
+div{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    border: solid 5px black;
+}
+.nav ul li{
+    display: inline;
+
+}
